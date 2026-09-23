@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.spyproject/
+
+# Rasters and layers that are NOT distributed: they derive from the LiDAR DEMs
+# of ACUMAR and COMIREC, or from third-party context cartography. See prep/.
+aux_rasters/
+other_src/
+*.bak
+*.tif.aux.xml
+
+# Scratch
+figures/old/
+*.tmp

@@ -1,0 +1,80 @@
+cff-version: 1.2.0
+title: >-
+  cubetas-morphometry: analysis code and data for the morphometric
+  characterisation and spatial organisation of cubeta wetlands in the
+  upper Matanza-Riachuelo and Reconquista basins
+message: >-
+  If you use this software or the data it distributes, please cite both the
+  archived release and the article it supports.
+type: software
+authors:
+  - given-names: Rafael
+    family-names: Grimson
+    orcid: https://orcid.org/0000-0002-3430-0402
+    affiliation: >-
+      Instituto de Investigación e Ingeniería Ambiental (IIIA),
+      Universidad Nacional de San Martín (UNSAM) - CONICET, Argentina
+  - given-names: Lucía
+    family-names: Migone
+    orcid: https://orcid.org/0009-0007-3609-2516
+    affiliation: >-
+      Instituto de Investigación e Ingeniería Ambiental (IIIA),
+      Universidad Nacional de San Martín (UNSAM) - CONICET, Argentina
+  - given-names: Gabriela
+    family-names: González Trilla
+    orcid: https://orcid.org/0000-0003-4112-5013
+    affiliation: >-
+      Instituto de Investigación e Ingeniería Ambiental (IIIA),
+      Universidad Nacional de San Martín (UNSAM) - CONICET, Argentina
+  - given-names: Facundo
+    family-names: Schivo
+    orcid: https://orcid.org/0000-0002-2074-4942
+    affiliation: >-
+      Instituto de Investigación e Ingeniería Ambiental (IIIA),
+      Universidad Nacional de San Martín (UNSAM) - CONICET, Argentina
+repository-code: https://github.com/rgrimson/cubetas-morphometry
+abstract: >-
+  Code and derived data supporting a census-scale analysis of 3210 cubetas
+  (shallow closed depressions) in the upper Matanza-Riachuelo and Reconquista
+  basins, on the loessic plain of northeastern Buenos Aires Province, Argentina.
+  The pipeline covers planimetric morphometry, axial circular statistics and
+  von Mises mixture model selection, Ripley point-pattern analysis, effect-size
+  comparisons of slope and drainage position, and the coupling between cubeta
+  orientation and the orientation of the surrounding valley field. The LiDAR
+  digital elevation models the analysis derives from are not distributed; only
+  the point-wise quantities extracted from them are.
+keywords:
+  - cubetas
+  - closed depressions
+  - Pampa plain
+  - morphometry
+  - circular statistics
+  - spatial point-pattern analysis
+  - landscape hydrology
+  - wetlands
+license: MIT
+version: 1.0.0
+date-released: "2026-09-22"
+doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: article
+  title: >-
+    Morphometric characterisation and spatial organisation of cubeta wetlands
+    in the upper Matanza-Riachuelo and Reconquista basins (Buenos Aires
+    Province, Argentina)
+  authors:
+    - given-names: Rafael
+      family-names: Grimson
+      orcid: https://orcid.org/0000-0002-3430-0402
+    - given-names: Lucía
+      family-names: Migone
+      orcid: https://orcid.org/0009-0007-3609-2516
+    - given-names: Gabriela
+      family-names: González Trilla
+      orcid: https://orcid.org/0000-0003-4112-5013
+    - given-names: Facundo
+      family-names: Schivo
+      orcid: https://orcid.org/0000-0002-2074-4942
+  journal: Cuadernos de Investigación Geográfica
+  year: 2026
+  doi: 10.0000/XXXXXX

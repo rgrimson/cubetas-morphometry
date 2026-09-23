@@ -1,0 +1,25 @@
+Data license — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Rafael Grimson and co-authors
+
+The data products in this repository — the standardized vector layers (vector/),
+the analysis result tables (results/) and the figure images (figures/) — are
+licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format.
+  - Adapt: remix, transform and build upon the material for any purpose,
+    including commercially.
+
+Under the following term:
+  - Attribution: you must give appropriate credit by citing the associated
+    article and this repository, provide a link to the license, and indicate
+    if changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Note: the source code (src/) is licensed separately under the MIT License
+(see LICENSE). The LiDAR digital elevation models used to derive some of these
+products are property of ACUMAR and COMIREC and are NOT included or licensed
+here (see README, "Data and provenance").
