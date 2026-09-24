@@ -165,10 +165,10 @@ def main():
     suffix = "" if len(basins) == len(cfg.BASINS) else "_" + "_".join(
         cfg.basin_label(b) for b in basins)
     for ext in ("png", "pdf"):
-        fig.savefig(FIG_DIR / f"Figure_6{suffix}.{ext}", dpi=300,
+        fig.savefig(FIG_DIR / f"Figure_6.{ext}", dpi=300,
                     bbox_inches="tight")
     plt.close(fig)
-    print(f"\n[ok] {FIG_DIR / f'Figure_6{suffix}.png'} (+ .pdf)")
+    print(f"\n[ok] {FIG_DIR / f'Figure_6.png'} (+ .pdf)")
 
 
 if __name__ == "__main__":
