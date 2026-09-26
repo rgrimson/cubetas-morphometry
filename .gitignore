@@ -14,3 +14,4 @@ other_src/
 # Scratch
 figures/old/
 *.tmp
+figures/*.zip
