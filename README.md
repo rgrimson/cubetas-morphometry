@@ -7,7 +7,7 @@ basins, Buenos Aires Province, Argentina.
 > Grimson, R., Migone, L., González Trilla, G., Schivo, F. (2026). Morphometric
 > characterisation and spatial organisation of cubeta wetlands in the upper
 > Matanza-Riachuelo and Reconquista basins (Buenos Aires Province, Argentina).
-> *Cuadernos de Investigación Geográfica*. [DOI to be assigned]
+> Submitted to *Cuadernos de Investigación Geográfica*. 
 
 Archived release: [Zenodo DOI to be assigned]
 
